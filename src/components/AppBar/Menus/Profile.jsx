@@ -32,7 +32,7 @@ const Profile = () => {
             aria-expanded={open ? 'true' : undefined}
           >
             <Avatar 
-              sx={{width: 30, height: 30}} 
+              sx={{width: 36, height: 36}} 
               alt='Yushing Dev'
               src='https://images.unsplash.com/photo-1529397938791-2aba4681454f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGh1bWFufGVufDB8fDB8fHww'
            />
