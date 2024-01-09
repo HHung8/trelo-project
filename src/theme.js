@@ -22,7 +22,7 @@ const theme = extendTheme({
   },
   components : {
       MuiCssBaseline: {
-          styleOverrides: {
+          styleOverrides: { 
             body: {
               '*::-webkit-scrollbar' : {
                 width: '8px', 
